@@ -1,6 +1,6 @@
-# 👋 Hello!
+# 👋 Hey!
 
-You can call me **Austin**, checkout out my website for more about me and my thoughts around development https://austinblade.com
+You can call me **Austin**, checkout out my website for more about me https://austinblade.com
 
 ![](https://komarev.com/ghpvc/?username=THATBLADEBOY&color=gray)
 
