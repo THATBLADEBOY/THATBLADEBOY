@@ -1,10 +1,24 @@
-# 👋 Hey!
 
-You can call me **Austin**, checkout out my website for more about me https://austinblade.com
 
-![](https://komarev.com/ghpvc/?username=THATBLADEBOY&color=gray)
 
-![](https://hit.yhype.me/github/profile?user_id=38840331)
-Also, let's connect on twitter! Feel free to dm me!
+<h1>
+  austin_blade
+  <img align="center" src="https://media0.giphy.com/media/FY0a7W5omfKi6m1dZr/giphy.gif?cid=ecf05e47rjivceg1g2x3yhxu8wl9yvr7sv5ue1mcvb9ggcgl&rid=giphy.gif&ct=s" width="60"/>
+</h1>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/_austinblade.svg?style=social&label=Follow%20%40_austinblade)](https://twitter.com/_austinblade)
+```json
+{
+  "title": "fullstack developer",
+  "stack": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "React",
+    "Postgres",
+    "NextJS",
+    "lots of other stuff..."
+    ],
+  "favoriteKingOfTheHillCharacter": "Dale Gribble"
+}
+```
+
