@@ -15,7 +15,7 @@
     "Node",
     "React",
     "lots of other stuff..."
-    ],
+  ],
   "hobbies": [
     "Coding",
     "Pokémon Cards",
@@ -23,6 +23,7 @@
     "3D Printing",
     "Cartoons",
     "Single Speed Biking"
+  ]
 }
 ```
 
