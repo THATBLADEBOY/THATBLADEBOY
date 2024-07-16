@@ -8,17 +8,21 @@
 
 ```json
 {
-  "title": "fullstack developer",
-  "stack": [
+  "title": "software developer",
+  "primary_tools": [
     "TypeScript",
     "JavaScript",
-    "Python",
+    "Node",
     "React",
-    "Postgres",
-    "NextJS",
     "lots of other stuff..."
     ],
-  "favoriteKingOfTheHillCharacter": "Dale Gribble"
+  "hobbies": [
+    "Coding",
+    "Pokémon Cards",
+    "Home Networking",
+    "3D Printing",
+    "Cartoons",
+    "Single Speed Biking"
 }
 ```
 
