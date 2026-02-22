@@ -18,11 +18,11 @@
   ],
   "hobbies": [
     "Coding",
-    "Pokémon Cards",
     "Home Networking",
     "3D Printing",
     "Cartoons",
-    "Single Speed Biking"
+    "Single Speed Biking",
+    "One Wheeling"
   ]
 }
 ```
